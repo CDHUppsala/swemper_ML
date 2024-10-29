@@ -1,0 +1,23 @@
+
+### requirements.txt
+
+```plaintext
+os
+yaml
+hashlib
+opencv-python
+torch
+layoutparser
+pytesseract
+argparse
+json
+datetime
+logging
+csv
+shutil
+Pillow
+numpy
+pandas
+sklearn
+tqdm
+torchvision
