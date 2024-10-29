@@ -1,5 +1,5 @@
 
-# swemper_ML Project
+# Swemper Project - Training
 
 ## Overview
 This project includes a machine learning pipeline for layout detection using Mask R-CNN, with tools for data preparation and model training. The setup includes scripts to handle data processing and training configuration for easy deployment.
