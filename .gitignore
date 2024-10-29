@@ -1,0 +1,14 @@
+# Ignore all data folders
+
+
+# Ignore Python cache and environment files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+__MACOSX/
