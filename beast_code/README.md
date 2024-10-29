@@ -1,5 +1,5 @@
 
-# Swemper Machine Learning: BEAST Module
+# Swemper Machine Learning: Beast code
 
 This repository contains a set of Python scripts for data preparation, segmentation, image similarity search, and metadata creation. These scripts are on Beast for the Swemper project.
 
