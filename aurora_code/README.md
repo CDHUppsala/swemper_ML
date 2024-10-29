@@ -8,7 +8,7 @@ This project includes a machine learning pipeline for layout detection using Mas
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your_username/swemper_ML.git
+   git clone https://github.com/CDHUppsala/swemper_ML.git
    cd swemper_ML
    ```
 
